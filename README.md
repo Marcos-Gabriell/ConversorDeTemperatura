@@ -22,4 +22,4 @@ Certifique-se de ter os seguintes componentes instalados em sua máquina:
 
 1. Clone este repositório para o seu sistema local:
    ```sh
-   git clone https://github.com/seu-usuario/conversor-temperaturas-java.git
+   git clone https://github.com/Marcos-Gabriell/ConversorDeTemperatura.git
