@@ -33,4 +33,5 @@ Certifique-se de ter uma das IDEs acima instalada para facilitar o desenvolvimen
    git clone https://github.com/Marcos-Gabriell/ConversorDeTemperatura.git
 
 2. Abra o projeto em sua IDE de preferência, como Eclipse, IntelliJ ou VS Code.
-3. Navegue até a classe Main.java e execute o método main para iniciar a aplicação.
+3. Navegue até a classe Main.java.
+4. Execute o método main para iniciar a aplicação.
