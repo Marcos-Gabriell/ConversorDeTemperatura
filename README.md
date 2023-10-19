@@ -2,6 +2,13 @@
 
 Este é um projeto de treinamento e Estudo em Programação Orientada a Objetos (POO) para criar um conversor de temperaturas entre graus Celsius e Fahrenheit em Java.
 
+## Linguagens e ferramentas  usadas
+<div >
+    <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+    <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+</div><br/>
+
+
 ## Descrição
 
 O objetivo deste projeto é desenvolver uma aplicação simples que permita aos usuários converter temperaturas de Celsius para Fahrenheit e vice-versa.
