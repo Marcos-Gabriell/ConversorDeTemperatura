@@ -36,6 +36,7 @@ Antes de começar, você precisará ter os seguintes componentes instalados em s
   - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/): Uma IDE popular com uma gama de recursos avançados.
   - [Visual Studio Code](https://code.visualstudio.com/download): Um editor de código leve e altamente personalizável, com extensões para Java.
 
+
 Certifique-se de ter uma das IDEs acima instalada para facilitar o desenvolvimento e a execução do projeto.
 
 
