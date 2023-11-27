@@ -39,7 +39,6 @@ Antes de começar, você precisará ter os seguintes componentes instalados em s
 
 Certifique-se de ter uma das IDEs acima instalada para facilitar o desenvolvimento e a execução do projeto.
 
-
 ## Como Usar
 
 
