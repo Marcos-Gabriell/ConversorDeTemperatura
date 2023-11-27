@@ -13,6 +13,7 @@ Este é um projeto de treinamento e Estudo em Programação Orientada a Objetos 
 
 ## Descrição
 
+
 O objetivo deste projeto é desenvolver uma aplicação simples que permita aos usuários converter temperaturas de Celsius para Fahrenheit e vice-versa.
 
 ## Funcionalidades
