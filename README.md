@@ -25,6 +25,7 @@ O objetivo deste projeto é desenvolver uma aplicação simples que permita aos 
 
 ## Pré-requisitos
 
+
 Antes de começar, você precisará ter os seguintes componentes instalados em sua máquina:
 
 - [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html): Certifique-se de ter o Java Development Kit instalado. Você pode verificar a instalação digitando `java -version` no seu terminal.
