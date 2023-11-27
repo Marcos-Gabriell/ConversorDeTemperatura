@@ -33,7 +33,6 @@ Certifique-se de ter uma das IDEs acima instalada para facilitar o desenvolvimen
 
 ## Como Usar
 
-
 1. Clone este repositório para o seu sistema local:
    ```sh
    git clone https://github.com/Marcos-Gabriell/ConversorDeTemperatura.git
